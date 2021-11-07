@@ -1,2 +1,2 @@
-# LinuxSysAdmin
-repository for Linux system administration
+# Linux System Administration
+repository for Linux system administration topics.
